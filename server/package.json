@@ -6,7 +6,7 @@
   "author": "Alexandra Lavell",
   "license": "MIT",
   "scripts": {
-    "start": "node server.js",
+    "start": "nodemon server.js",
     "dev:backend": "nodemon server.js"
   },
   "dependencies": {
